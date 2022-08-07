@@ -3,6 +3,7 @@
 
 	select * from students;
 
+
 /* 2. Вывести всех студентов в таблице */
 
 	select id,name from students; 
